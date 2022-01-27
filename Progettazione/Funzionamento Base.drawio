@@ -1,1 +1,176 @@
-<mxfile host="Electron" modified="2022-01-26T17:57:37.917Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/16.4.0 Chrome/96.0.4664.110 Electron/16.0.7 Safari/537.36" etag="bsgwkG1RnVBIaPRHxypn" version="16.4.0" type="device"><diagram id="o6ViuQ3DOsumrlZ1KLd1" name="Pagina-1">5Vptk5o6FP41Tj/1DhBA92NEdpdWZUfZbW+/ZSUrtEgsxqr99U0gkTfXteMq3LkzDpInySGc8+Q5B7QDrMX2LkHLYER8HHU0xd92wKCjaaquaR3+UfxdhvRMIwPmSeiLQTkwDX9jASoCXYc+XpUGUkIiGi7L4IzEMZ7REoaShGzKw15IVL7qEs1xDZjOUFRHv4Q+DQSqKUrecY/DeSAvbcqeBZKjBbAKkE82BQjYHWAlhNDsbLG1cMS9Jx2Tzbt9pXe/sgTH9JQJK/O2v/Sfvn7bkJfRJyPoB+rtR2lmRXfylrHPPCCaJKEBmZMYRXaO9hOyjn3MzSqslY8ZErJkoMrA75jSnQgnWlPCoIAuItHLVpzsvor5aeNf3vjHkM3Bttg52IlWtla+wFd9IO+HrJMZPnLj6o1gE0rmmB7zUB4rxnJMFpitiE1McIRo+Ku8EiToNt+PywPCTkRM/iI+cpm/ULQWl4JPT47LoIE9ZMeHiXs3gaMRrMWxHKVNEFI8XaLUKRu2WcsREVfBCcXb476te0JMMATPxU5XZXtT2jcZFhS2jKlcyHdA+59yW3r5bW7rZ3I7nQqTBO0KA5YkjOmqYPmBAzlRtG6ZKaZSCXVmMA/8fmVncAG0iQvdVpIBtIEMQDEuzwbpk4Kq2lNn6tkMG/KDBSeePUxPqzILbhtX2n111B6p1du0va65u8CJuwu8EtLL7i69whRZt15Wa402keGqWnsyG84tKt+FDaB3Da0Fh7XWHbt7tb134JOz19ovkCmv1wahBZWadi+gjQmtpte8aU1s+M1xx4W8BVv1YFD1ImjaiaDXJoG6oj6BU2tBYDahT0atFrxGtrppExmuma1OZ0O3ETZUZEO/uUK2AseeDLis9oeu9dm6h864DQnKqGZ0vXFtVY8mqIFTyPctc57abdx5Zs15zt3YnTSfw02zUgk176tunWhw4lhwZI89Ny8j+aJMtOAuyY7lTawp6YFVSgdHWnBoucP8dWvfGcKxxd+/tiwg+qF3AMaBgPQuFRC9Lp3MnxG7bP+FpMKeu8v8uSay4+MqTZJcXDVzuc072dlcfKdWniXg3TNFYVYUVXaxBT9XhzMsu66EKxFjvqflsKAonMfsfMZigBMG8AiFMxRB0bEIfT/L/5gtGj2npni8RS5jdo1+xxhwWyzlZzeWml7RhPzAFokIszuIScytvIRRVIHegRnVcls9lBMOMUO7GDPMNpVYb1VYnDTCqGa+b8Wly58w36q4dO3Miuu8eNVzeOFHp7QMstzx1OUP702/Ci1z3eg1nZayyJVTOE8w0PPsKZQV0GOWeB4ePeHTD48eS1st8KfaOofW33i8nhC0wwnhv6D8h2XnrGCqSiWY2omZQP/7YLJm/leG7Gks/0cIsP8A</diagram></mxfile>
+<mxfile host="65bd71144e">
+    <diagram id="o6ViuQ3DOsumrlZ1KLd1" name="Pagina-1">
+        <mxGraphModel dx="1118" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="s6FBpdVXZwofMJ5hBh1F-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="s6FBpdVXZwofMJ5hBh1F-19" target="s6FBpdVXZwofMJ5hBh1F-20" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="s6FBpdVXZwofMJ5hBh1F-19" value="AVVIO DEL PROGRAMMA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="150" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="s6FBpdVXZwofMJ5hBh1F-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="s6FBpdVXZwofMJ5hBh1F-20" target="s6FBpdVXZwofMJ5hBh1F-24" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="270" y="60"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="s6FBpdVXZwofMJ5hBh1F-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="s6FBpdVXZwofMJ5hBh1F-20" target="s6FBpdVXZwofMJ5hBh1F-23" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="270" y="305"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="s6FBpdVXZwofMJ5hBh1F-20" value="ESISTE LE CARTELLE DEL PROGRAMMA?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="150" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="s6FBpdVXZwofMJ5hBh1F-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="s6FBpdVXZwofMJ5hBh1F-23" target="s6FBpdVXZwofMJ5hBh1F-31" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="410" y="200"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="s6FBpdVXZwofMJ5hBh1F-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="s6FBpdVXZwofMJ5hBh1F-23" target="s6FBpdVXZwofMJ5hBh1F-30" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="410" y="385"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="s6FBpdVXZwofMJ5hBh1F-23" value="ESISTONO LE CHIAVI DEL WALLET?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="260" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="s6FBpdVXZwofMJ5hBh1F-24" value="CREAZIONE CARTELLA PROGRAMMA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="30" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="s6FBpdVXZwofMJ5hBh1F-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="s6FBpdVXZwofMJ5hBh1F-30" target="s6FBpdVXZwofMJ5hBh1F-36" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="570" y="300"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="s6FBpdVXZwofMJ5hBh1F-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="s6FBpdVXZwofMJ5hBh1F-30" target="s6FBpdVXZwofMJ5hBh1F-37" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="550" y="495"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="s6FBpdVXZwofMJ5hBh1F-30" value="ESISTE LA BLOCKCHAIN?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="510" y="340" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="s6FBpdVXZwofMJ5hBh1F-31" value="CREAZIONE DI CHIAVI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="510" y="170" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="s6FBpdVXZwofMJ5hBh1F-36" value="IGNORA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="660" y="270" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" style="edgeStyle=none;html=1;" edge="1" parent="1" source="s6FBpdVXZwofMJ5hBh1F-37" target="2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" style="edgeStyle=none;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="s6FBpdVXZwofMJ5hBh1F-37" target="8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="s6FBpdVXZwofMJ5hBh1F-37" value="CARICAMENTO WALLET &amp;amp; BLOCKCHAIN IN RAM &amp;amp; CALCOLO DEL BILANCIO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="660" y="450" width="150" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="s6FBpdVXZwofMJ5hBh1F-40" value="&lt;font style=&quot;font-size: 26px&quot;&gt;&lt;b&gt;THREAD 1&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="140" width="150" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="s6FBpdVXZwofMJ5hBh1F-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=26;" parent="1" source="s6FBpdVXZwofMJ5hBh1F-41" target="s6FBpdVXZwofMJ5hBh1F-42" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="s6FBpdVXZwofMJ5hBh1F-41" value="AVVIO DELLA CONSOLE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="580" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="s6FBpdVXZwofMJ5hBh1F-42" value="IN ATTESA DI UN INPUT DELL'UTENTE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="580" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="s6FBpdVXZwofMJ5hBh1F-44" value="&lt;b&gt;THREAD 2&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="520" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="CARICAMENTO COMPLETATO, SPENGO IL THREAD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="880" y="380" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="CHIUDO IL PROGRAMMA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="880" y="530" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;b&gt;THREAD 3&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="750" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" style="edgeStyle=none;html=1;" edge="1" parent="1" target="13">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="170" y="860" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" value="IN ATTESA DI UNA TRANSAZIONE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="830" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" style="edgeStyle=none;html=1;" edge="1" parent="1" source="13" target="15">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="ARRIVO DI UNA TRANSAZIONE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="830" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Q3uTsbFSqLOK1n681L9u-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="15" target="17">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="530" y="762"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Q3uTsbFSqLOK1n681L9u-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="15" target="22">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="530" y="935"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="VERIFICA DELLA TRANSAZIONE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="830" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" style="edgeStyle=none;html=1;" edge="1" parent="1" source="17" target="20">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="OK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="650" y="740" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="AGGIUNGO LA TRANSAZIONE AL PROSSIMO BLOCCO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="840" y="740" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" style="edgeStyle=none;html=1;" edge="1" parent="1" source="22" target="24">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="NO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="650" y="890" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="IGNORA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="830" y="890" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="&lt;b&gt;THREAD 4&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=26;" vertex="1" parent="1">
+                    <mxGeometry x="35" y="1000" width="150" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" style="edgeStyle=none;html=1;" edge="1" parent="1" source="27" target="28">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="IN ARRIVO DI UNA TRANSAZIONE VERIFICATA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="1060" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" style="edgeStyle=none;html=1;" edge="1" parent="1" source="28" target="30">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="VIENE AGGIUNTA AL BLOCCO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="1060" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="DOPO 100 TRANSAZIONI O 10 SECONDI VIENE CREATO IL BLOCCO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="1060" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
